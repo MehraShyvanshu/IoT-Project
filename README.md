@@ -7,7 +7,7 @@ In order to achieve this, a Bluetooth module is interfaced to the Arduino board 
 
 Demonstration of the project is in the below youtube video :  
 
-<a href = "https://www.youtube.com/watch?v=1ieyT6df8ec" ><img src="https://github.com/aagarwal1012/Home-Automation/blob/master/Images/youtube_image.png" width="50%" /></a>  
+<img src="https://github.com/MehraShyvanshu/IoT-Project/blob/main/Home-Automation-master/Images/youtube_image.png" width="50%" /></a>  
 
 Contents
 --------

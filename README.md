@@ -1,4 +1,3 @@
-# IoT-Project
 Home-Automation
 =====
 The main objective of this project is to develop a home automation system using an Arduino board with Bluetooth being remotely controlled by any Android OS smartphone. As technology is advancing so houses are also getting smarter. Modern houses are gradually shifting from conventional switches to centralized control system, involving remote controlled switches. Presently, conventional wall switches located in different parts of the house makes it difficult for the user to go near them to operate. Even more it becomes more difficult for the elderly or physically handicapped people to do so. Remote controlled home automation system provides a most modern solution with smartphones. 
@@ -25,7 +24,7 @@ Similarly, when the user presses on the ‘On’ button displayed on the app for
 This project of home automation using Bluetooth and Arduino can be used for controlling any AC or DC devices.  
 Given below is the flow diagram that explains the flow of the project.
 
-<img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/diagram.jpg" width = "75%"/>  
+<img src = "https://github.com/MehraShyvanshu/IoT-Project/blob/main/Home-Automation-master/Images/diagram.jpg" width = "75%"/>  
 
 
 <a name="components">Components</a>
@@ -54,7 +53,7 @@ The list of components mentioned here are specifically for controlling 4 differe
 ---------
 ### Circuit Diagram  
 
-<img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/ciruit_diagram.png" width = "75%"/>  
+<img src = "https://github.com/MehraShyvanshu/IoT-Project/blob/main/Home-Automation-master/Images/ciruit_diagram.png" width = "75%"/>  
 
 ### Arduino Code 
 
@@ -126,7 +125,7 @@ void loop() {
 
 ### Android App  
 
-<img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/app_screenshot.png" width = "300"/>
+<img src = "https://github.com/MehraShyvanshu/IoT-Project/blob/main/Home-Automation-master/Images/app_screenshot.png" width = "300"/>
 
 
 Future Develpment
@@ -137,36 +136,5 @@ Future Develpment
 - We can replace Bluetooth by GSM modem so that we can achieve device controlling by sending SMS using GSM modem.  
 
 
-Any suggestion are welcomed and feel free to open an <a href = "https://github.com/aagarwal1012/Home-Automation/issues">issue</a>.
 
-# Donate
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> - [PayPal](https://www.paypal.me/aagarwal1012/)
-
-License
---------
-
-```
-MIT License
-
-Copyright (c) 2018 Ayush Agarwal
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+Copyright (c) 2020 Shyvanshu Mehra

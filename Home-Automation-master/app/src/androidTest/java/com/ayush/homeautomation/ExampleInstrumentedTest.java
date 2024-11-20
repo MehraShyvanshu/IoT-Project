@@ -1,4 +1,4 @@
-package com.ayush.homeautomation;
+package com.shyvanshu.homeautomation;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.ayush.homeautomation", appContext.getPackageName());
+        assertEquals("com.shyvanshu.homeautomation", appContext.getPackageName());
     }
 }
